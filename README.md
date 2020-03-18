@@ -89,3 +89,7 @@ In k8: v1.15<br>
    kubectl: v1.15<br>
    ubuntu: 18.04<br>
    bash: v4.4<br>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/AATHITH/kubesort.svg)](https://starchart.cc/AATHITH/kubesort)
